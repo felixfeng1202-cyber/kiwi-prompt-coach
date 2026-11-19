@@ -1,0 +1,4 @@
+interface:
+  display_name: "KIWI Skill 共创教练"
+  short_description: "端到端共创、实现并核验可复用的 Codex Skill"
+  default_prompt: "使用 $kiwi-prompt-coach 联合 skill-creator，把我的需求端到端创建或升级为可核验的 Skill。"
